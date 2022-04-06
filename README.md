@@ -1,2 +1,1 @@
-# task-0
-task 0: cheese academy
+G'sの課題を入れるフォルダ
